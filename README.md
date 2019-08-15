@@ -10,7 +10,9 @@ This repository serves as a data storage for [trajminer](https://github.com/traj
 
 | Dataset                       | Folder                   | Where                        | Source                                               |
 |:------------------------------|:-------------------------|:-----------------------------|:-----------------------------------------------------|
-| AIS U.S. West Coast           | ais_usa_wc               | U.S. West Coast              | https://marinecadastre.gov/ais/                      |
-| Brightkite                    | brightkite               | World                        | https://snap.stanford.edu/data/loc-brightkite.html   |
-| Gowalla                       | gowalla                  | World                        | https://snap.stanford.edu/data/loc-gowalla.html      |
-| Starkey Telemetry             | starkey                  | Starkey, Oregon, U.S.        | https://www.fs.fed.us/pnw/starkey/mapsdata.shtml     |
+| AIS U.S. West Coast           | ais_usa_wc               | U.S. West Coast              | https://marinecadastre.gov/ais/                                        |
+| Brightkite                    | brightkite               | World                        | https://snap.stanford.edu/data/loc-brightkite.html                     |
+| Foursquare NYC                | foursquare               | New York, New York, U.S.     | https://sites.google.com/site/yangdingqi/home/foursquare-dataset      |
+| Foursquare Tokyo              | foursquare               | Tokyo, Japan                 | https://sites.google.com/site/yangdingqi/home/foursquare-dataset      |
+| Gowalla                       | gowalla                  | World                        | https://snap.stanford.edu/data/loc-gowalla.html                        |
+| Starkey Telemetry             | starkey                  | Starkey, Oregon, U.S.        | https://www.fs.fed.us/pnw/starkey/mapsdata.shtml                          |
